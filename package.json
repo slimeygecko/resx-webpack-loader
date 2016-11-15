@@ -1,0 +1,28 @@
+{
+  "name": "resx-webpack-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader that converts resx files into JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slimeygecko/resx-webpack-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "resx",
+    "json"
+  ],
+  "author": "Mike Woodward - @slimeygecko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slimeygecko/resx-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/slimeygecko/resx-webpack-loader#readme",
+  "dependencies": {
+    "jsonfromresx": "^1.0.1"
+  }
+}
