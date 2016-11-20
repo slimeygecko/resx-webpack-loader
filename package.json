@@ -1,7 +1,7 @@
 {
   "name": "resx-webpack-loader",
   "version": "0.1.0",
-  "description": "Webpack loader that converts resx files into JSON.",
+  "description": "Webpack loader that converts *.resx files into JSON.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
