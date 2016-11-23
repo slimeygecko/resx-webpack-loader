@@ -1,6 +1,6 @@
 # resx-webpack-loader
 
-Todo: include a sample webpack config and example code.
+Thanks to Luke Howard, @binaryluke for his package jsonfromresx.
 
 The important stuff:
 ```javascript
