@@ -10,6 +10,6 @@ module.exports = function(content) {
 
     jsonfromresx.convert(this.resourcePath, null, {}, function(result, err) {
         if(err) return callback(err);
-        callback(null, result);
+        callback(null, "module.exports = " + JSON.stringify(result) + ";");
     });
 };
